@@ -49,3 +49,9 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
+
+.table {
+    border: 5px solid #000000;
+    position: absolute; 
+     
+}
