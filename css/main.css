@@ -6,6 +6,7 @@ body {
     margin: 60px auto;
     width: 70%;
     background-image:url("https://i.ytimg.com/vi/VaEJau3t_a8/maxresdefault.jpg");
+    color: "Black"
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
@@ -27,6 +28,7 @@ a:hover {
 h1 {
     font-size: 3em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    color: 'Black'
 }
 p {
     font-size: 1.5em;
